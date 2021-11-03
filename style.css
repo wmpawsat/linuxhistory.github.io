@@ -1,0 +1,21 @@
+body {
+	background-repeat: repeat;
+	background-image: url("background.gif");
+	color: blue;
+}
+li {
+	border: 2px solid black;
+	font-size: 40px;
+}
+
+.center {
+	text-align: center;
+	margin: auto;
+	width: 50%;
+}
+
+.rig {
+	position:absolute;
+	top:0;
+	right:0;
+}
